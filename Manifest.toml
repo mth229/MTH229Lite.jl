@@ -2,7 +2,7 @@
 
 julia_version = "1.10.0"
 manifest_format = "2.0"
-project_hash = "5901decd8167187b76b5505c67eb798154cbb3ad"
+project_hash = "141c2acc8d2baa2eed091205ce41cc42e75d5e12"
 
 [[deps.Accessors]]
 deps = ["CompositionsBase", "ConstructionBase", "Dates", "InverseFunctions", "LinearAlgebra", "MacroTools", "Markdown", "Test"]
@@ -37,7 +37,7 @@ uuid = "2a0f44e3-6c83-55bd-87e4-b1978d98bd5f"
 
 [[deps.BinderPlots]]
 deps = ["PlotUtils", "PlotlyLight"]
-git-tree-sha1 = "17fe33f36d3a62908c3ed60bbc352a39dab6062d"
+git-tree-sha1 = "93e7a9c41979bb42466cd2cfba9e670fe760d5ef"
 repo-rev = "main"
 repo-url = "https://github.com/jverzani/BinderPlots.jl"
 uuid = "5e41213d-62ae-4ae0-a5b0-867e743d03c0"

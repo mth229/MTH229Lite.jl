@@ -3,7 +3,7 @@
 MTH229 without the SymPy dependency for use on binder.org.
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jverzani/MTH229Lite.jl/main?labpath=blank-notebook.ipynb) Run package within binder.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mth229/MTH229Lite.jl/main?labpath=blank-notebook.ipynb) Run package within binder.
 
 ----
 

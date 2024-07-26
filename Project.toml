@@ -12,6 +12,7 @@ SimpleExpressions = "deba94f7-f32a-40ad-b45e-be020a5ded2f"
 
 [compat]
 Reexport = "1"
+SimpleExpressions = "1"
 julia = "1.9"
 
 [extras]
